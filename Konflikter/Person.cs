@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Konflikter
 {
-    internal class Car
+    internal class Person
     {
-        public string Make { get; set; }
-
-        public string Model { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
 
     }
 }
