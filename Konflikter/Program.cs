@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Person person = new Person("Alex", 25);
-            Person person1 = new Person("Jonatan", 33);
+            Person person = new Person("A", 31);
+            Person person1 = new Person("B", 33);
+            Person person2 = new Person("Andreas", 33);
             var car = new Car("BMW", "3-serie");
         }
     }
