@@ -12,6 +12,7 @@ namespace Konflikter
         {
             Make = make;
             Model = model;
+
         }
 
         public string Make { get; set; }
